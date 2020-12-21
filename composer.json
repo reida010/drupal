@@ -51,6 +51,7 @@
         "drupal/redirect": "^1.6",
         "drupal/select2": "^1.12",
         "drupal/shariff": "^1.7",
+        "drupal/swiftmailer": "^2.0@beta",
         "drupal/token": "^1.7",
         "drush/drush": "^10.3",
         "npm-asset/dropzone": "^5.7",
